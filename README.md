@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @greyco1or
-- 👀 I’m interested in Java, Spring, Javascript, Rust, Blockchain, Solidity!
-- 🌱 I’m currently learning Java, Spring, Javascript
+- 👀 I’m interested in Java, Spring, Javascript, Rust, Blockchain and Solidity!
+- 🌱 I’m currently learning Java, Spring and Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
