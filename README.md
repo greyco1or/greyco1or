@@ -15,7 +15,7 @@
 - ORM( Object-relational mapping ) : Mybatis
 - DBMS : Oracle, Mysql, Mariadb
 - DBTools: heidisql , DBeaver, EXERD, Oracle SQL Developer
-- 형상(버전)관리 : Github
+- VCS : Github
 - OS: Linux, Window, MacOS
 
 
