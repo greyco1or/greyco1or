@@ -2,6 +2,7 @@
 - 👀 I’m interested in Java, Spring, Javascript, Solidity and Blockchain!
 - 🌱 I’m currently learning Solidity.
 
+🙂 Skills 🙂
 - IDE Tool : Intellij, VScode, eclipse, STS
 - Design Pattern : Model 1, Model 1.5, Model 2 MVC
 - FrontEnd : html, css, javascript, JQuery, jsp, Thymeleaf( template engine ), bootstrap
