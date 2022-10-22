@@ -1,6 +1,6 @@
 🙂 SELF Introduction 🙂
 - 👋 Hi, I’m @greyco1or
-- 👀 I’m interested in Java, Spring, Javascript, Solidity and Blockchain!
+- 👀 I’m interested in Java, Spring, Javascript and Blockchain!
 - 🌱 I’m currently learning Solidity.
 - 🖥 https://blog.naver.com/starbux630
 
