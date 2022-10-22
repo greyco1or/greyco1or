@@ -4,15 +4,15 @@
 
 - IDE Tool : Intellij, VScode, eclipse, STS
 - Design Pattern : Model 1, Model 1.5, Model 2 MVC
-FrontEnd : html, css, javascript, JQuery, jsp, Thymeleaf( template engine ), bootstrap
-BackEnd : Java
-Framework : Spring boot
-Blockchain: Solidity
-ORM( Object-relational mapping ) : Mybatis
-DBMS : Oracle, Mysql, Mariadb
-DBTools: heidisql , DBeaver, EXERD, Oracle SQL Developer
-형상(버전)관리 : Github
-OS: Linux, Window, MacOS
+- FrontEnd : html, css, javascript, JQuery, jsp, Thymeleaf( template engine ), bootstrap
+- BackEnd : Java
+- Framework : Spring boot
+-Blockchain: Solidity
+- ORM( Object-relational mapping ) : Mybatis
+- DBMS : Oracle, Mysql, Mariadb
+- DBTools: heidisql , DBeaver, EXERD, Oracle SQL Developer
+- 형상(버전)관리 : Github
+- OS: Linux, Window, MacOS
 
 
 <!---
