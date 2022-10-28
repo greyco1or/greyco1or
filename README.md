@@ -11,7 +11,7 @@
 - FrontEnd : html, css, javascript, JQuery, jsp, Thymeleaf( template engine ), bootstrap
 - BackEnd : Java
 - Framework : Spring boot
--Blockchain: Solidity
+- Blockchain: Solidity
 - ORM( Object-relational mapping ) : Mybatis
 - DBMS : Oracle, Mysql, Mariadb
 - DBTools: heidisql , DBeaver, EXERD, Oracle SQL Developer
