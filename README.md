@@ -8,7 +8,7 @@
 🙂 Skills 🙂
 - IDE Tool : Intellij, VScode, eclipse, STS
 - Design Pattern : Model 1, Model 1.5, Model 2 MVC
-- FrontEnd : html, css, javascript, JQuery, jsp, Thymeleaf( template engine ), bootstrap
+- FrontEnd : html, css, javascript, typescript, JQuery, jsp, Thymeleaf( template engine ), bootstrap
 - BackEnd : Java
 - Framework : Spring boot
 - Blockchain: Solidity
