@@ -10,7 +10,7 @@
 - Design Pattern : Model 1, Model 1.5, Model 2 MVC
 - FrontEnd : html, css, javascript, JQuery, jsp, Thymeleaf( template engine ), bootstrap
 - BackEnd : Java, Typescript, Nodejs
-- Framework : Spring boot, Express.js
+- Framework : Spring boot, Express
 - Blockchain: Solidity
 - ORM( Object-relational mapping ) : Mybatis
 - DBMS : Oracle, Mysql, Mariadb
