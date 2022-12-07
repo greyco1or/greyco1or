@@ -6,17 +6,17 @@
 
 
 🙂 Skills 🙂
-- IDE Tool : Intellij, VScode, eclipse, STS
-- Design Pattern : Model 1, Model 1.5, Model 2 MVC
-- FrontEnd : html, css, javascript, JQuery, jsp, Thymeleaf( template engine ), bootstrap
-- BackEnd : Java, Typescript, Nodejs
-- Framework : Spring boot, Express
-- Blockchain: Solidity
-- ORM( Object-relational mapping ) : Mybatis
-- DBMS : Oracle, Mysql, Mariadb
-- DBTools: heidisql , DBeaver, EXERD, Oracle SQL Developer
-- VCS : Github
-- OS: Linux, Window, MacOS
+- 🛠️ IDE Tool : Intellij, VScode, eclipse, STS
+- 🖍️ Design Pattern : Model 1, Model 1.5, Model 2 MVC
+- 🖼️ FrontEnd : html, css, javascript, JQuery, jsp, Thymeleaf( template engine ), bootstrap
+- 💻 BackEnd : Java, Typescript, Nodejs
+- 🗂️ Framework : Spring boot, Express
+- ⛓️ Blockchain: Solidity
+- 👫 ORM( Object-relational mapping ) : Mybatis
+- 🗄️ DBMS : Oracle, Mysql, Mariadb
+- 🛠️ DBTools: heidisql , DBeaver, EXERD, Oracle SQL Developer
+- 📚 VCS : Github
+- 🖥️ OS: Linux, Window, MacOS
 
 
 <!---
