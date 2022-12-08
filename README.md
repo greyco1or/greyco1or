@@ -1,12 +1,14 @@
 🙂 SELF Introduction 🙂
-- 👋 Hi,
+- 👋 Hi
   > I’m @greyco1or
-- 👀 Now,
+- 👀 Now
   > I’m interested in Nodejs and Solidity!
-- 🌱 So,
+- 🌱 So
   > I’m currently learning Nodejs and Solidity.
 - 🗓️ Plan
-  > Studying How to make backEnd server by Nodejs -> Studying NestJs Framework with Typescript -> Mastering Solidity with Reading Open Source
+  1. Studying How to make backEnd server by Nodejs
+  2. Studying NestJs Framework with Typescript
+  3. Mastering Solidity with Reading Open Source
 - 🖥 Blog
   > https://blog.naver.com/starbux630
 
