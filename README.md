@@ -3,7 +3,7 @@
 - 👀 I’m interested in Java, Spring, Nodejs and Blockchain!
 - 🌱 I’m currently learning Solidity and Nodejs.
 - 🗓️ Plan
-  Studying How to make backEnd server by Nodejs -> Studying NestJs Framework with Typescript -> Mastering Solidity with Reading Open Source
+  > Studying How to make backEnd server by Nodejs -> Studying NestJs Framework with Typescript -> Mastering Solidity with Reading Open Source
 - 🖥 Blog: https://blog.naver.com/starbux630
 
 
