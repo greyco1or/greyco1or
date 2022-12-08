@@ -1,10 +1,14 @@
 🙂 SELF Introduction 🙂
-- 👋 Hi, I’m @greyco1or
-- 👀 I’m interested in Java, Spring, Nodejs and Blockchain!
-- 🌱 I’m currently learning Solidity and Nodejs.
+- 👋 Hi,
+  > I’m @greyco1or
+- 👀 Now,
+  > I’m interested in Nodejs and Solidity!
+- 🌱 So,
+  > I’m currently learning Nodejs and Solidity.
 - 🗓️ Plan
   > Studying How to make backEnd server by Nodejs -> Studying NestJs Framework with Typescript -> Mastering Solidity with Reading Open Source
-- 🖥 Blog: https://blog.naver.com/starbux630
+- 🖥 Blog
+  > https://blog.naver.com/starbux630
 
 
 🙂 Skills 🙂
@@ -12,7 +16,7 @@
 - 🖍️ Design Pattern : Model 1, Model 1.5, Model 2 MVC
 - 🖼️ FrontEnd : html, css, javascript, JQuery, jsp, Thymeleaf( template engine ), bootstrap
 - 💻 BackEnd : Java, Typescript, Nodejs
-- 🗂️ Framework : Spring boot, Express
+- 🗂️ Framework : Spring, Spring boot, Express
 - ⛓️ Blockchain: Solidity
 - 👫 ORM( Object-relational mapping ) : Mybatis
 - 🗄️ DBMS : Oracle, Mysql, Mariadb
