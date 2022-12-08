@@ -8,7 +8,7 @@
 - 🗓️ Plan
    >1: Studying How to make BackEnd(server) by Nodejs.  
    >2: Studying NestJs Framework with Typescript.  
-   >3: Mastering Solidity by Reading Open Source.(Defi, NFT, perhaps cross chain like Bridge...)
+   >3: Mastering Solidity by Reading Open Source.(Defi, NFT, perhaps Crosschain like Bridge...)
 - 🖥 Blog
   > https://blog.naver.com/starbux630
 ---------------------------------------
