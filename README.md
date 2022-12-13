@@ -6,8 +6,8 @@
 - 🌱 So
   > I’m currently learning Nodejs and Solidity.
 - 🗓️ Plan
-   >1: Studying How to make BackEnd(server) by Nodejs.  
-   >2: Studying NestJs Framework with Typescript.  
+   >1: Studying How to make BackEnd(server) by Nodejs.  ✅
+   >2: Studying NestJs Framework with Typescript.  🏃‍♂
    >3: Mastering Solidity by Reading Open Source.(Defi, NFT or.. perhaps Crosschain like Bridge...)
 - 🖥 Blog
   > https://blog.naver.com/starbux630
