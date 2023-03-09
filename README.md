@@ -6,7 +6,7 @@
 - 🌱 So
   > I’m currently learning Solidity.
 - 🗓️ Plan
-   >1: Making Ddapp like Defi, NFT.
+   >1: Making Dapp like Defi, NFT.
    >2: Mastering Solidity by Reading Open Source.(Defi, NFT or.. perhaps Crosschain like Bridge...)
 - 🖥 Blog
   > https://blog.naver.com/starbux630
