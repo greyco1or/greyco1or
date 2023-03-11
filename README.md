@@ -1,17 +1,9 @@
 🙂 SELF Introduction 🙂
 - 👋 Hi
-  > I’m @greyco1or
-- 👀 Now
-  > I’m really interested in Blockchain. 
-- 🌱 So
-  > I’m currently learning Solidity.
-- 🗓️ Plan
-   >1: Making Dapp like Defi, NFT.
-   >2: Mastering Solidity by Reading Open Source.(Defi, NFT or.. perhaps Crosschain like Bridge...)
-- 🖥 Blog
-  > https://blog.naver.com/starbux630
+  > I’m @greyco1or. Here is my portfolio: https://greyco1or.github.io/ You can know who I am!
 ---------------------------------------
 
+<!--
 🙂 Skills 🙂
 - 🛠️ IDE Tool
   > Intellij, VScode, eclipse, STS
