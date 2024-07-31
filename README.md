@@ -1,6 +1,6 @@
 🙂 SELF Introduction 🙂
 - 👋 Hi
-  > I’m @greyco1or. Here is my portfolio: https://greyco1or.github.io/ You can know who I am!
+  > I’m @greyco1or. 
 ---------------------------------------
 
 <!--
